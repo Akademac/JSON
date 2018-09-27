@@ -1,12 +1,6 @@
 {
- "name": "Goran",
-  "age": 30,
-  "city": "Smederevska Palanka",
-  "cars": [
-  {"name": "Ford", "models": ["Focus", "Kuga", "Mustang", "Mondeo"]},
-  {"name": "BMW", "models": ["520D", "X5", "X3"]},
-  {"name": "Fiat", "models": ["Punto", "500L"]},
-  {"name": "Ferari", "models": ["Testarosa", "La Ferari"]},
-  {"name": "Buggati", "models": ["Veyron", "Schyron"]}
-  ]
+ "firstName": "Goran",
+ "lastName": "Djuric",
+ "phoneNumber": "0652892061",
+ "email": "gdjuric1989@gmail.com"
 }
