@@ -1,6 +1,10 @@
-{
+[{
  "firstName": "Goran",
  "lastName": "Djuric",
  "phoneNumber": "0652892061",
  "email": "gdjuric1989@gmail.com"
-}
+},
+ {
+ "description": "This text is here only for testing Ajax, the genuine text will be implament soon"
+ }
+]
