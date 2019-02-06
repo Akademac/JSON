@@ -89,6 +89,12 @@
      "img": "Images/breakfast_2.jpg",
      "description": "Whit cheddar, Jack, Swiss and mozzarella cheese on grilled garlic-Parmesan sour dough. With you choice of fresh thin-cut Ruisset fries, mixed fruit or house salad",
      "price": "9"
+   },
+   {
+    "name": "Mini Sesame Zucchini Loaves",
+     "img": "Images/breakfast_3.jpg",
+     "description": "These mini loaves are packed with greens, which means you'll get one serving out of the way before the day gets going.",
+     "price": "7"
    }
   ]
  }
