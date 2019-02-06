@@ -115,7 +115,7 @@
     "price": "7"
 }
   ],
-"lunch": [
+"lunch": [ {
    "name": "POTATO CAKE EGGS BENEDICT",
    "img": "Images/breakfast_1.jpg",
    "description": "Hickory-smoked bacon, spinach, tomatoes, poached eggs and Hollandaise. With mixed fruit (instead of potatoes)",
