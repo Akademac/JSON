@@ -1,5 +1,5 @@
 [{
- "firstName": "Jelena",
+ "firstName": "Goran",
  "lastName": "Djuric",
  "phoneNumber": "0652892061",
  "email": "gdjuric1989@gmail.com"
@@ -74,5 +74,16 @@
  {
  "quote": "Flowers always make people better, happier, and more helpful; they are sunshine, food and medicine for the soul.",
   "name": "- Luther Burbank"
+ },
+ {
+ "name": "Fodd",
+  "meals": [
+   {
+   "name": "POTATO CAKE EGGS BENEDICT",
+   "img": "Images/breakfast_1.jpg",
+   "description": "Hickory-smoked bacon, spinach, tomatoes, poached eggs and Hollandaise. With mixed fruit (instead of potatoes)",
+   "price": "8"
+   }
+  ]
  }
 ]
