@@ -83,6 +83,12 @@
    "img": "Images/breakfast_1.jpg",
    "description": "Hickory-smoked bacon, spinach, tomatoes, poached eggs and Hollandaise. With mixed fruit (instead of potatoes)",
    "price": "8"
+   },
+    {
+    "name": "CHEESE GRILLED SANDWICH",
+     "img": "Images/breakfast_2.jpg",
+     "description": "Whit cheddar, Jack, Swiss and mozzarella cheese on grilled garlic-Parmesan sour dough. With you choice of fresh thin-cut Ruisset fries, mixed fruit or house salad",
+     "price": "9"
    }
   ]
  }
