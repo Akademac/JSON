@@ -120,6 +120,12 @@
    "img": "Images/lunch_1.jpg",
    "description": "Slow-roasted turkey whit crisp green apple on a french-baked, all-butter croissant. Served with side of apricot chutney.",
    "price": "15"
+   },
+    {
+    "name": "CHEESY PESTO FRIES",
+     "img": "Images/lunch_2.jpg",
+     "description": "Savory, crunchy and downright addictive, these cheesy pesto chips from Taverna you must taste.",
+     "12"
    }
   ]
  }
