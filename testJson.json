@@ -161,33 +161,33 @@
      "price": "12"
    },
     {
-    "name": "CHEESY PESTO FRIES",
-     "img": "Images/lunch_2.jpg",
-     "description": "Savory, crunchy and downright addictive, these cheesy pesto chips from Taverna you must taste.",
+    "name": "Savory Palmiers with Roasted Garlic and Rosemary",
+     "img": "Images/dinner_2.jpg",
+     "description": "Sundried tomato, parmesan & rosemary palmiers - perfect for dinner nibblies",
      "price": "12"
    },
    {
-    "name": "CHICKEN AND SUNDRIED TOMATO BAGUETTE BITES",
-     "img": "Images/lunch_3.jpg",
-     "description": "Smoked Chicken and Sun-Dried Tomato Sandwiches with Basil Olive Pesto",
+    "name": "Marinated Manchego",
+     "img": "Images/dinner_3.jpg",
+     "description": "The only thing more crowd-pleasing than cheese is marinated cheese. If Manchego isn’t your thing, go for any semi-firm cheese like white cheddar, Gouda, or Monterey Jack.",
      "price": "13"
    },
   {
-    "name": "BRUSCHETTA WITH PESTO, MOZZARELLA AND TOMATOES",
-     "img": "Images/lunch_4.jpg",
-     "description": " Crisp crostini slathered in pesto and topped with buttery fresh mozzarella, a red ripe tomato slice and a single basil leaf – heaven",
+    "name": "Crispy Sheet-Pan Meatballs with Salsa Verde",
+     "img": "Images/dinner_4.jpg",
+     "description": "Meatballs on toothpicks with carrots and dipping sauce, crispy and soft-great combination",
      "price": "9"
     },
    {
-    "name": "Tomato Olives Rolls",
-    "img": "Images/lunch_5.jpg",
-    "description": "These big, chewy rolls are flecked with green olive, making them a nicely complementary base for all kinds of savory sandwiche",
+    "name": "Mortadella Moments",
+    "img": "Images/dinner_5.jpg",
+    "description": "Mortadella corn dogs with fennel-basil salad, Moretti beer cheese sauce and jalapeño-honey mustard at Cucina Pazzo.",
     "price": "10"
     },             
    {
-    "name": "ASPARAGUS ROLLS",
-    "img": "Images/breakfast_6.jpg",
-    "description": "A savory bacon and chive filling makes these quick asparagus roll-ups extra-flavorful.",
+    "name": "Scallion Pancakes",
+    "img": "Images/dinner_6.jpg",
+    "description": "The secret to layered, flaky, chewy-crunchy scallion pancakes? It’s all in the roll (and the spin, and the re-roll).",
     "price": "7"
    }
   ]
