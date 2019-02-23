@@ -193,7 +193,7 @@
   ]
  },
  {
- "name", "quizzes",
+ "name": "quizzes",
  "qiuizzes": [
   {
   "name": "Quiz #1",
