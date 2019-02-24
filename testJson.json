@@ -203,32 +203,36 @@
     "<scritp>",
     "js",
     "javascript"
-   ],
-  }
+   ]
+  },
+  {
    "question_2": "How do you write 'Hello World' in an alert box?",
    "answers_2": [
     "alert('Hello World')",
     "msg('Hello World')",
     "alertBox('Hello World')",
     "msgBox('Hello World')"
-   ],
-  }
+   ]
+  },
+  {
    "question_3": "How do you call a function named 'myFunction'?",
    "answers_3": [
     "myFunction()",
     "call myFunction()",
     "myFunction() call",
     "myFunction"
-   ],
-  }
+   ]
+  },
+  {
    "quesiton_4": "How to write an IF statement in JavaScript?",
    "answers_4": [
     "if i=5",
     "if(i == 5)",
     "if i == 5 then",
     "if i = 5 then"
-   ],
-  }
+   ]
+  },
+  {
    "question_5": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
    "answers_5": [
    "if(i <> 5)",
