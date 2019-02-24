@@ -196,9 +196,8 @@
  "name": "quizzes",
  "qiuizzes": [
   {
-  "name": "Quiz #1",
-   "question_1": "Inside which HTML element do we put the JavaScript?",
-   "answers_1": [
+   "question": "Inside which HTML element do we put the JavaScript?",
+   "answers": [
     "<scripting>",
     "<scritp>",
     "js",
@@ -206,8 +205,8 @@
    ]
   },
   {
-   "question_2": "How do you write 'Hello World' in an alert box?",
-   "answers_2": [
+   "question": "How do you write 'Hello World' in an alert box?",
+   "answers": [
     "alert('Hello World')",
     "msg('Hello World')",
     "alertBox('Hello World')",
@@ -215,8 +214,8 @@
    ]
   },
   {
-   "question_3": "How do you call a function named 'myFunction'?",
-   "answers_3": [
+   "question": "How do you call a function named 'myFunction'?",
+   "answers": [
     "myFunction()",
     "call myFunction()",
     "myFunction() call",
@@ -224,8 +223,8 @@
    ]
   },
   {
-   "quesiton_4": "How to write an IF statement in JavaScript?",
-   "answers_4": [
+   "quesiton": "How to write an IF statement in JavaScript?",
+   "answers": [
     "if i=5",
     "if(i == 5)",
     "if i == 5 then",
@@ -233,8 +232,8 @@
    ]
   },
   {
-   "question_5": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
-   "answers_5": [
+   "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+   "answers": [
    "if(i <> 5)",
     "if i =! 5",
     "if(i != 5)",
