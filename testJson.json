@@ -223,7 +223,7 @@
    ]
   },
   {
-   "quesiton": "How to write an IF statement in JavaScript?",
+   "question": "How to write an IF statement in JavaScript?",
    "answers": [
     "if i=5",
     "if(i == 5)",
