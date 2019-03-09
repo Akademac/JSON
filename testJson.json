@@ -219,37 +219,85 @@
   {
    "question": "How do you write 'Hello World' in an alert box?",
    "answers": [
-    "alert('Hello World')",
-    "msg('Hello World')",
-    "alertBox('Hello World')",
-    "msgBox('Hello World')"
+        {
+          "answer": "alert('Hello World')",
+          "trueFalse": true
+        },
+        {
+          "answer": "msg('Hello World')",
+          "trueFalse": false
+        },
+        {
+           "answer": "alertBox('Hello World')",
+           "trueFalse": false
+        },
+        {
+          "answer": "msgBox('Hello World')",
+          "trueFalse": false
+        }
    ]
   },
   {
    "question": "How do you call a function named 'myFunction'?",
    "answers": [
-    "myFunction()",
-    "call myFunction()",
-    "myFunction() call",
-    "myFunction"
+         {
+          "answer": "myFunction()",
+          "trueFalse": true
+         },
+         {
+           "answer": "call myFunction()",
+           "trueFalse": false
+         },
+         {
+            "answer": "myFunction() call",
+            "trueFalse": false
+         },
+         {
+            "answer": "myFunction",
+            "trueFalse": false
+         }
    ]
   },
   {
    "question": "How to write an IF statement in JavaScript?",
    "answers": [
-    "if i=5",
-    "if(i == 5)",
-    "if i == 5 then",
-    "if i = 5 then"
+         {
+             "answer": "if i=5",
+             "trueFalse": false
+         },
+         {
+              "answer": "if(i == 5)",
+              "trueFalse": true
+         },
+         {
+              "answer": "if i == 5 then",
+              "trueFalse": false
+         },
+         {
+              "answer": "if i = 5 then",
+              "trueFalse": false
+         }
    ]
   },
   {
    "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
    "answers": [
-   "if(i <> 5)",
-    "if i =! 5",
-    "if(i != 5)",
-    "if i <> 5"
+          {   
+              "answer": "if(i <> 5)",
+              "trueFalse": false
+          },
+          {
+              "answer": "if i =! 5",
+              "trueFalse": false
+          },
+          {
+              "answer": "if(i != 5)",
+              "trueFalse": true
+          },
+          {
+              "answer": "if i <> 5",
+              "trueFalse": false
+          }
    ]
   }
  ]
