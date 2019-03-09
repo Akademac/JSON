@@ -198,10 +198,22 @@
   {
    "question": "Inside which HTML element do we put the JavaScript?",
    "answers": [
-    "scripting",
-    "scritpt",
-    "js",
-    "javascript"
+        { 
+           "answer": "scripting",
+           "trueFalse: false
+        },
+        {
+            "answer": "script",
+            "trueFalse": true
+        },
+        {   
+            "answer": "js",
+            "trueFalse": false
+        },
+        {
+            "answer": "javascript",
+            "trueFalse": false
+        }
    ]
   },
   {
