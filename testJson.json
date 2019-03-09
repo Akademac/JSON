@@ -200,7 +200,7 @@
    "answers": [
         { 
            "answer": "scripting",
-           "trueFalse: false
+           "trueFalse": false
         },
         {
             "answer": "script",
