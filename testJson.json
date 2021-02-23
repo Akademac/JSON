@@ -304,30 +304,38 @@
  },
  {
 	"BratLi": [
-		{"mens": [
+		{"mans": [
 					{
 						"key": "001",
 						"img": "Images/tie_1.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Red"
+						"color": "Red",
+						"price": "500rsd",
+						"for": "mans"
 					},
 					{
 						"key": "002",
 						"img": "Images/tie_2.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Black"		
+						"color": "Black",
+						"price": "600rsd",
+						"for": "mans"
 					},
 					{
 						"key": "003",
 						"img": "Images/tie_3.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Blue"		
+						"color": "Blue",
+						"price": "500",
+						"for": "mans"
 					},
 					{
 						"key": "004",
 						"img": "Images/tie_5.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Bungurdy"				
+						"color": "Bungurdy",
+						"price": "500rsd",
+						"for": "mans"
 					}
 				]
 		},
@@ -337,18 +345,24 @@
 						"img": "Images/tie_6.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 						"color": "Dark green"
+						"price": "700rsd",
+						"for": "women"
 					},
 					{
 						"key": "006",
 						"img": "Images/tie_7.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Golden"		
+						"color": "Golden",
+						"price": "800rsd",
+						"for": "women"
 					},
 					{
 						"key": "007",
 						"img": "Images/tie_8.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Burgundy"		
+						"color": "Burgundy",
+						"price": "700rsd",
+						"for": "women"
 					}					
 				]
 		},
@@ -357,7 +371,9 @@
 						"key": "008",
 						"img": "Images/tie_4.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Plaid, grey-red"		
+						"color": "Plaid, grey-red",
+						"price": "500rsd",
+						"for": "kids"
 					}
 				]
 		},
@@ -366,7 +382,9 @@
 						"key": "009",
 						"img": "Images/tie_9.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Burgundy"		
+						"color": "Burgundy",
+						"price": "500rsd",
+						"for": "pets"
 					}
 				]
 		}
