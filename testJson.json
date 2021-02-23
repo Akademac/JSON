@@ -301,5 +301,77 @@
    ]
   }
  ]
- }
+ },
+ {
+	"BratLi": [
+		{"mens": [
+					{
+						"key": "001",
+						"img": "Images/tie_1.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Red"
+					},
+					{
+						"key": "002",
+						"img": "Images/tie_2.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Black"		
+					},
+					{
+						"key": "003",
+						"img": "Images/tie_3.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Blue"		
+					},
+					{
+						"key": "004",
+						"img": "Images/tie_5.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Bungurdy"				
+					}
+				]
+		},
+		{"women": [
+					{
+						"key": "005",
+						"img": "Images/tie_6.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Dark green"
+					},
+					{
+						"key": "006",
+						"img": "Images/tie_7.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Golden"		
+					},
+					{
+						"key": "007",
+						"img": "Images/tie_8.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Burgundy"		
+					}					
+				]
+		},
+		{"kids": [
+					{
+						"key": "008",
+						"img": "Images/tie_4.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Plaid, grey-red"		
+					}
+				]
+		},
+		{"pets": [
+					{
+						"key": "009",
+						"img": "Images/tie_9.png",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+						"color": "Burgundy"		
+					}
+				]
+		}
+	]
+}
+      
+ 
 ]
