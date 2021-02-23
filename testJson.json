@@ -344,7 +344,7 @@
 						"key": "005",
 						"img": "Images/tie_6.png",
 						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Dark green"
+						"color": "Dark green",
 						"price": "700rsd",
 						"for": "women"
 					},
