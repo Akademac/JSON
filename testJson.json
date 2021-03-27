@@ -302,99 +302,488 @@
   }
  ]
  },
- {
+{
 	"BratLi": [
 		{"mans": [
 					{
 						"key": "001",
-						"img": "Images/tie_1.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Red",
-						"price": "500",
+						"img": "Images/products/mans_1.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Teksas",
+						"color": "Teget",
+						"price": "600",
 						"for": "mans",
 						"popul": "72"
 					},
 					{
 						"key": "002",
-						"img": "Images/tie_2.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Black",
+						"img": "Images/products/mans_2.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Teksas",
+						"color": "Teget",
+						"price": "600",
+						"for": "mans",
+						"popul": "73"
+					},
+					{
+						"key": "003",
+						"img": "Images/products/mans_3.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Teksas",
+						"color": "Teget",
+						"price": "600",
+						"for": "mans",
+						"popul": "71"
+					},
+					{
+						"key": "004",
+						"img": "Images/products/mans_4.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Teksas",
+						"color": "Teget",
 						"price": "600",
 						"for": "mans",
 						"popul": "75"
 					},
 					{
-						"key": "003",
-						"img": "Images/tie_3.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Blue",
-						"price": "500",
+						"key": "005",
+						"img": "Images/products/mans_5.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Teksas",
+						"color": "Teget",
+						"price": "600",
 						"for": "mans",
-						"popul": "94"
+						"popul": "73"
 					},
 					{
-						"key": "004",
-						"img": "Images/tie_5.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Bungurdy",
+						"key": "006",
+						"img": "Images/products/mans_6.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Bela",
 						"price": "500",
 						"for": "mans",
-						"popul": "51"
+						"popul": "82"
+					},
+					{
+						"key": "007",
+						"img": "Images/products/mans_7.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Bela",
+						"price": "500",
+						"for": "mans",
+						"popul": "81"
+					},
+					{
+						"key": "008",
+						"img": "Images/products/mans_8.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Siva",
+						"price": "500",
+						"for": "mans",
+						"popul": "83"
+					},
+					{
+						"key": "009",
+						"img": "Images/products/mans_9.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Bela",
+						"price": "500",
+						"for": "mans",
+						"popul": "85"
+					},
+					{
+						"key": "010",
+						"img": "Images/products/mans_10.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Bela",
+						"price": "500",
+						"for": "mans",
+						"popul": "81"
+					},
+					{
+						"key": "011",
+						"img": "Images/products/mans_11.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Bela",
+						"price": "500",
+						"for": "mans",
+						"popul": "83"
+					},
+					{
+						"key": "012",
+						"img": "Images/products/mans_12.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Bela",
+						"price": "500",
+						"for": "mans",
+						"popul": "86"
+					},
+					{
+						"key": "013",
+						"img": "Images/products/mans_13.jpg",
+						"description": "Muška leptir mašna u više dezena",
+						"material": "Lan",
+						"color": "Svetlo Zelena",
+						"price": "500",
+						"for": "mans",
+						"popul": "89"
+					},
+					{
+						"key": "014",
+						"img": "Images/products/mans_14.jpg",
+						"description": "Muška leptir mašna u dve boje",
+						"material": "Pamuk",
+						"color": "Crvena",
+						"price": "400",
+						"for": "mans",
+						"popul": "90"
+					},
+					{
+						"key": "015",
+						"img": "Images/products/mans_15.jpg",
+						"description": "Muška leptir mašna u dve boje",
+						"material": "Pamuk",
+						"color": "Teget",
+						"price": "400",
+						"for": "mans",
+						"popul": "90"
+					},
+					{
+						"key": "016",
+						"img": "Images/products/mans_16.jpg",
+						"description": "Muška leptir mašna od drveta",
+						"material": "Drvo",
+						"color": "Bez",
+						"price": "700",
+						"for": "mans",
+						"popul": "95"
+					},
+					{
+						"key": "017",
+						"img": "Images/products/mans_17.jpg",
+						"description": "Muška leptir mašna pd drveta",
+						"material": "Drvo",
+						"color": "Bez",
+						"price": "700",
+						"for": "mans",
+						"popul": "92"
+					},
+					{
+						"key": "018",
+						"img": "Images/products/mans_18.jpg",
+						"description": "Muška leptir mašna od drveta",
+						"material": "Drvo",
+						"color": "Bez",
+						"price": "700",
+						"for": "mans",
+						"popul": "93"
+					},
+					{
+						"key": "019",
+						"img": "Images/products/mans_19.jpg",
+						"description": "Muška leptir mašna od drveta",
+						"material": "Drvo",
+						"color": "Braon",
+						"price": "700",
+						"for": "mans",
+						"popul": "97"
+					},
+					{
+						"key": "020",
+						"img": "Images/products/mans_20.jpg",
+						"description": "Muška leptir mašna u vise dezena",
+						"material": "Pamuk",
+						"color": "Sarena",
+						"price": "400",
+						"for": "mans",
+						"popul": "77"
+					},
+					{
+						"key": "021",
+						"img": "Images/products/mans_21.jpg",
+						"description": "Muška leptir mašna u vise dezena",
+						"material": "Pamuk",
+						"color": "Plavo-Bela",
+						"price": "400",
+						"for": "mans",
+						"popul": "78"
+					},
+					{
+						"key": "022",
+						"img": "Images/products/mans_22.jpg",
+						"description": "Muška leptir mašna u vise dezena",
+						"material": "Pamuk",
+						"color": "Roze-Bela",
+						"price": "400",
+						"for": "mans",
+						"popul": "71"
+					},
+					{
+						"key": "023",
+						"img": "Images/products/mans_23.jpg",
+						"description": "Muška leptir mašna u vise dezena",
+						"material": "Pamuk",
+						"color": "Karirana",
+						"price": "500",
+						"for": "mans",
+						"popul": "61"
+					},
+					{
+						"key": "024",
+						"img": "Images/products/mans_24.jpg",
+						"description": "Muška leptir mašna u vise dezena",
+						"material": "Pamuk",
+						"color": "Karirana",
+						"price": "500",
+						"for": "mans",
+						"popul": "62"
+					},
+					{
+						"key": "025",
+						"img": "Images/products/mans_25.jpg",
+						"description": "Muška leptir mašna u vise dezena",
+						"material": "Pamuk",
+						"color": "Karirana",
+						"price": "500",
+						"for": "mans",
+						"popul": "65"
+					},
+					{
+						"key": "026",
+						"img": "Images/products/mans_25.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Pamuk",
+						"color": "Bez",
+						"price": "500",
+						"for": "mans",
+						"popul": "53"
+					},
+					{
+						"key": "027",
+						"img": "Images/products/mans_27.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Pamuk",
+						"color": "Bela",
+						"price": "500",
+						"for": "mans",
+						"popul": "55"
+					},
+					{
+						"key": "028",
+						"img": "Images/products/mans_28.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Pamuk",
+						"color": "Svetlo Siva",
+						"price": "500",
+						"for": "mans",
+						"popul": "52"
+					},
+					{
+						"key": "029",
+						"img": "Images/products/mans_29.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Poliester",
+						"color": "Crna",
+						"price": "300",
+						"for": "mans",
+						"popul": "42"
+					},
+					{
+						"key": "030",
+						"img": "Images/products/mans_30.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Poliester",
+						"color": "Plava",
+						"price": "300",
+						"for": "mans",
+						"popul": "41"
+					},
+					{
+						"key": "031",
+						"img": "Images/products/mans_31.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Poliester",
+						"color": "Siva",
+						"price": "300",
+						"for": "mans",
+						"popul": "40"
+					},
+					{
+						"key": "032",
+						"img": "Images/products/mans_32.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Poliester",
+						"color": "Zelena",
+						"price": "300",
+						"for": "mans",
+						"popul": "41"
+					},
+					{
+						"key": "033",
+						"img": "Images/products/mans_33.jpg",
+						"description": "Muška leptir mašna u vise boja",
+						"material": "Poliester",
+						"color": "Crvena",
+						"price": "300",
+						"for": "mans",
+						"popul": "44"
 					}
+
 				]
 		},
 		{"women": [
 					{
-						"key": "005",
-						"img": "Images/tie_6.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Dark green",
-						"price": "700",
+						"key": "034",
+						"img": "Images/products/women_1.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Crna",
+						"price": "400",
 						"for": "women",
-						"popul": "86"
+						"popul": "76"
 					},
 					{
-						"key": "006",
-						"img": "Images/tie_7.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Golden",
-						"price": "800",
+						"key": "035",
+						"img": "Images/products/women_2.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Tamno Zelena",
+						"price": "400",
 						"for": "women",
-						"popul": "91"
+						"popul": "75"
 					},
 					{
-						"key": "007",
-						"img": "Images/tie_8.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Burgundy",
-						"price": "700",
+						"key": "036",
+						"img": "Images/products/women_3.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Crvena",
+						"price": "400",
 						"for": "women",
-						"popul": "37"
-						
-					}					
+						"popul": "78"
+					},
+					{
+						"key": "037",
+						"img": "Images/products/women_4.jpg",
+						"description": "Ženska marama na tufnice u više boja",
+						"material": "Poliester",
+						"color": "Bela",
+						"price": "400",
+						"for": "women",
+						"popul": "80"
+					},
+					{
+						"key": "038",
+						"img": "Images/products/women_5.jpg",
+						"description": "Ženska marama u vise dezena",
+						"material": "Poliester",
+						"color": "Sarena",
+						"price": "400",
+						"for": "women",
+						"popul": "71"
+					},
+					{
+						"key": "039",
+						"img": "Images/products/women_6.jpg",
+						"description": "Ženska marama u vise dezena",
+						"material": "Poliester",
+						"color": "Sarena",
+						"price": "400",
+						"for": "women",
+						"popul": "75"
+					},
+					{
+						"key": "040",
+						"img": "Images/products/women_7.jpg",
+						"description": "Ženska marama u vise dezena",
+						"material": "Poliester",
+						"color": "Sarena",
+						"price": "400",
+						"for": "women",
+						"popul": "70"
+					}
 				]
 		},
 		{"kids": [
 					{
-						"key": "008",
-						"img": "Images/tie_4.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Plaid, grey-red",
-						"price": "500",
+						"key": "041",
+						"img": "Images/products/kids_1.jpg",
+						"description": "Dečija leptir mašna u više dezena",
+						"material": "Pamuk"
+						"color": "Sarena",
+						"price": "350",
 						"for": "kids",
-						"popul": "87"
+						"popul": "57"
+					},
+					{
+						"key": "042",
+						"img": "Images/products/kids_2.jpg",
+						"description": "Dečija leptir mašna u više dezena",
+						"material": "Pamuk"
+						"color": "Sarena",
+						"price": "350",
+						"for": "kids",
+						"popul": "54"
+					},
+					{
+						"key": "043",
+						"img": "Images/products/kids_3.jpg",
+						"description": "Dečija leptir mašna u više dezena",
+						"material": "Pamuk"
+						"color": "Sarena",
+						"price": "350",
+						"for": "kids",
+						"popul": "52"
+					},
+					{
+						"key": "044",
+						"img": "Images/products/kids_4.jpg",
+						"description": "Dečija leptir mašna u više dezena",
+						"material": "Pamuk"
+						"color": "Sarena",
+						"price": "350",
+						"for": "kids",
+						"popul": "58"
+					},
+					{
+						"key": "045",
+						"img": "Images/products/kids_5.jpg",
+						"description": "Dečija leptir mašna u više dezena",
+						"material": "Pamuk"
+						"color": "Sarena",
+						"price": "350",
+						"for": "kids",
+						"popul": "59"
 					}
 				]
 		},
 		{"pets": [
 					{
-						"key": "009",
-						"img": "Images/tie_9.png",
-						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-						"color": "Burgundy",
-						"price": "500",
+						"key": "046",
+						"img": "Images/products/dog_1.jpg",
+						"description": "Leptir mašna za pse u više boja",
+						"material": "Poliester",
+						"color": "Crvena",
+						"price": "400",
 						"for": "pets",
-						"popul": "22"
+						"popul": "49"
+					},
+					{
+						"key": "047",
+						"img": "Images/products/dog_2.jpg",
+						"description": "Leptir mašna za pse u više boja",
+						"material": "Poliester",
+						"color": "Crna",
+						"price": "400",
+						"for": "pets",
+						"popul": "46"
 					}
 				]
 		}
